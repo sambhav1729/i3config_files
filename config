@@ -229,6 +229,3 @@ bindsym $mod+minus scratchpad show
 bindsym $mod+BackSpace [class="Xfce4-terminal"] scratchpad show
 bindsym $mod+c [class="Code"] scratchpad show
 
-# Transparency with picom compositor
-exec_always picom
-
